@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>about</key>
+	<dict>
+		<key>name</key>
+		<string>Raphael Augusto Silva</string>
+		<key>aboutme</key>
+		<string>Software Developer, Computer Engineering Undergraduate Student, Language Lover and Vegan Cooking Blogger</string>
+		<key>summary</key>
+		<string>I&apos;m fascinated about Mobile Development, Software Engineering and Entrepreneurship - the main reason I changed my professional carrer. I always keep myself thinking about ways to change people&apos;s lives, trying and working to create meaningful projects, using technology to achieve that. In the free time, I&apos;m always looking foward to learn a new language and a new recipe to cook.</string>
+	</dict>
+	<key>experiences</key>
+	<array>
+		<dict>
+			<key>duration</key>
+			<string>Jan 2015 – Present</string>
+			<key>position</key>
+			<string>Chapter Leader</string>
+			<key>company</key>
+			<string>CocoaHeads Brasil</string>
+			<key>description</key>
+			<string>CocoaHeads is a group devoted to discussion of Apple Computer&apos;s Cocoa and CocoaTouch Frameworks for programming on MacOS X and iOS. As Chapter Leader of my city - Jundiaí, my main role is to organize monthly meetings, where members present their projects and offer tutorials on a great diversity of topics.</string>
+			<key>url</key>
+			<string>http://www.cocoaheads.com.br</string>
+		</dict>
+		<dict>
+			<key>duration</key>
+			<string>Aug 2014 – Present</string>
+			<key>position</key>
+			<string>iOS Developer</string>
+			<key>company</key>
+			<string>OneTune.fm</string>
+			<key>description</key>
+			<string>OneTune is the world&apos;s free, open music streaming platform. With OneTune, you can browse millions of cataloged songs from any artist and stream it on-demand, as well as create a personal music library on the cloud, make playlists, view lyrics to songs, and access independent, original content that&apos;s not listed on iTunes or Spotify.</string>
+			<key>url</key>
+			<string>http://onetune.fm</string>
+		</dict>
+		<dict>
+			<key>duration</key>
+			<string>Jul 2013 - Present</string>
+			<key>position</key>
+			<string>Software Developer</string>
+			<key>company</key>
+			<string>Cetus</string>
+			<key>description</key>
+			<string>Lead iOS Developer and Java Developer, developing challenging projects like self-generating algorithms, B2B applications, and communication solutions.</string>
+			<key>url</key>
+			<string>http://cetus.art.br</string>
+		</dict>
+		<dict>
+			<key>duration</key>
+			<string>Sep 2013 – Dec 2014</string>
+			<key>position</key>
+			<string>iOS Developer Student</string>
+			<key>company</key>
+			<string>BEPiD Campinas</string>
+			<key>description</key>
+			<string>Student at BEPiD (Brazilian Educational Program for iOS Developers), an innovative program created in order to increase the number of highly skilled iOS Developers in Brazil, teaching with the pedagogic method known as CBL (Challenged Based Learning), allowing students to learn in a collaborative way working together the instructors to solve challenges.</string>
+			<key>url</key>
+			<string>http://www.bepid.com.br/campinas/</string>
+		</dict>
+		<dict>
+			<key>duration</key>
+			<string>Jun 2011 – Sep 2013</string>
+			<key>position</key>
+			<string>Product Designer</string>
+			<key>company</key>
+			<string>MAHLE Tech Center</string>
+			<key>description</key>
+			<string>Product Designer responsible for the bearings, connecting rods and thrust washers projects of the R&amp;D area.</string>
+			<key>url</key>
+			<string>http://www.mahle.com.br/MAHLE_South_America/en/Technological-Center</string>
+		</dict>
+	</array>
+	<key>education</key>
+	<array>
+		<dict>
+			<key>school</key>
+			<string>Metrocamp - Grupo Ibmec</string>
+			<key>period</key>
+			<string>Jan 2011 – Dec 2015</string>
+			<key>info</key>
+			<string>Undergraduate Student of Computer Engineering.</string>
+		</dict>
+		<dict>
+			<key>school</key>
+			<string>Technical School SENAI &quot;Roberto Mange&quot;</string>
+			<key>period</key>
+			<string>Jan 2009 – Dec 2010</string>
+			<key>info</key>
+			<string>Mechanical Manufacturing, Project and Tool-making Technician (Post High School).</string>
+		</dict>
+	</array>
+	<key>tech-skills</key>
+	<array>
+		<string>Experience in programming languages like Objective C, Java, PHP and Javascript.</string>
+		<string>Learning how to code in Swift, Python and Ruby.</string>
+		<string>Experience in Software Development, Design Patterns and Software Architecture.</string>
+		<string>Experience in Agile Methodologies for software development.</string>
+		<string>Experience with Apllication Servers like Wildfly, Glassfish and Jetty.</string>
+		<string>Experience with Relational Databases (SQL and PL/SQL) and NoSQL Databases.</string>
+	</array>
+	<key>projects</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>Ludwig</string>
+			<key>description</key>
+			<string>Ludwig is an ongoing iOS accessibility project, started inside BEPiD, that aims to introduce the music world to hearing impaired people and, in the future, also teach music to them. For achieving the result, the application works with colors and vibrations - using an external hardware.</string>
+			<key>url</key>
+			<string>https://www.dropbox.com/s/rj5088uxj3xsxr8/Field-Test_Ludwig.mov?dl=0;https://www.dropbox.com/s/l6ju7vfsxrp6k7o/Ludwig%20Teste%202.mov?dl=0</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>OneTune</string>
+			<key>description</key>
+			<string>OneTune is a music streaming application, for the OneTune.fm platform.</string>
+			<key>url</key>
+			<string>itms://itunes.apple.com/us/app/id924272509</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>FeelSound</string>
+			<key>description</key>
+			<string>FeelSound is an ongoing iOS accessibility project, for my college term paper, with the objective of identifying sound patterns, using the device&apos;s microphone, helping hearing impaired people to identify doorbells, sirens and other important sounds through different vibration patterns - using an external hardware.</string>
+			<key>url</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Tá na Cara!</string>
+			<key>description</key>
+			<string>Tá na Cara! is an amazing guessing game, that requires at least 2 people to play. One person stays with the device on the forehead, with the screen side to the other person, that have to give hints about the word that showed up. Fun garanteed!</string>
+			<key>url</key>
+			<string>itms://itunes.apple.com/br/app/id851884902</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>English for Kids - Lite</string>
+			<key>description</key>
+			<string>English for Kids - Lite is an educational app, that started inside BEPiD - on a 2-week challenge, that intends to introduce english for kids up to 5 years old, looking forward to stimulate and develop language skills through a friendly and intuitive interface full of drawings, sounds and animations.</string>
+			<key>url</key>
+			<string>itms://itunes.apple.com/br/app/id920816979</string>
+		</dict>
+	</array>
+	<key>contact</key>
+	<dict>
+		<key>LinkedIn</key>
+		<string>https://br.linkedin.com/in/raphaelaugustosilva</string>
+		<key>GitHub</key>
+		<string>https://github.com/peagasilva</string>
+		<key>Phone</key>
+		<string>+5511975086972</string>
+		<key>E-mail</key>
+		<string>sr.silvaraphael@gmail.com</string>
+	</dict>
+</dict>
+</plist>
